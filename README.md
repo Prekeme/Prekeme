@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prekeme
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning frontend dev
+- 👀 A frontend web developer 
+- 🌱 I build webs from scratch 
 - 💞️ I’m looking to collaborate on Anything development 
 - 📫 How to reach me +2347038267847
 - 😄 Pronouns: He/Him
